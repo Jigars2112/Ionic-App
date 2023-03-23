@@ -1,0 +1,7 @@
+{
+  "name": "JS Ionic21",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
